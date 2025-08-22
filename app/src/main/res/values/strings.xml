@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="max_intro">Hello World! I am pursuing a software engineer degree and currently working on getting accepted into the android development internship organized by CodePath.</string>
+</resources>
