@@ -4,7 +4,7 @@ Submitted by: **Yvenold Francois**
 
 Helloworld is an android app that shows an image and introductory message, and allows pressing a button to display a Toast.
 
-Time spent: 3 - 4 hours spent in total
+Time spent: 4 - 5 hours spent in total
 
 ## Required Features
 
@@ -23,14 +23,12 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
-<!-- Recommended tools:
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
- -->
-
 ## Notes
 
 Describe any challenges encountered while building the app.
+None were encountered, the steps were pretty clear and concise.
 
 ## License
 
